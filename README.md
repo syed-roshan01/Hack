@@ -13,9 +13,9 @@ Hack was developed for Termux and linux based systems. Using Hack, you can insta
 
 <br>
 <p align="center">
-<img width="40%" src="core/hack.png"/>
+<img width="38%" src="core/hack.png"/>
 <img width="28%" src="core/hack_cat.png"/>
-<img width="30%" src="core/Screenshot_2020-05-17-20-17-56.png"/>
+<img width="32%" src="core/Screenshot_2020-05-17-20-17-56.png"/>
 </p>
 
 ------------------------------------------------------------------------
